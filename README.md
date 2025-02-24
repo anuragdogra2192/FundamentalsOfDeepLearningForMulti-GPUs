@@ -1,6 +1,9 @@
 ## Fundamentals of Deep Learning for Multi-GPUs
 By NVIDIA Deep Learning Institute
 
+### About
+This workshop teaches you techniques for training deep neural networks on multi-GPU technology to shorten the training time required for data-intensive applications. Working with deep learning tools, frameworks, and workflows to perform neural network training, you’ll learn concepts for implementing Horovod multi-GPUs to reduce the complexity of writing efficient distributed software and to maintain accuracy when training a model across many GPUs.
+
 ### Learning Objectives
 
 At the conclusion of the workshop, you’ll have an understanding of:
